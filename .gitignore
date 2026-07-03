@@ -1,0 +1,27 @@
+# General Node.js and Next.js Git ignore patterns
+node_modules/
+.next/
+dist/
+/.next/
+/build/
+/.env
+.env
+.env.*
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# OS generated files
+.DS_Store
+Thumbs.db
+# IDE / editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Misc
+coverage/
+public/static/
