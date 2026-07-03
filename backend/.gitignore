@@ -1,0 +1,9 @@
+# Backend .gitignore
+# Ignore environment variables and node modules
+.env
+.env.local
+.env.example
+.env.*.local
+node_modules/
+.DS_Store
+Thumbs.db
